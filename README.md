@@ -239,7 +239,7 @@ footer a:hover{color:#fff}
 <!-- HERO -->
 <section class="hero">
   <div class="hero-inner">
-    <span class="hero-tag">Межпредметные связи · ФРП 2022</span>
+    <span class="hero-tag">Межпредметные связи</span>
     <h1>Как связать <em>географию</em><br>и литературу на уроке</h1>
     <p>Справочник для учителей географии 5–9 классов. Все темы ФРП — с подобранными произведениями и конкретными аспектами интеграции.</p>
     <a href="#table" class="hero-cta">
